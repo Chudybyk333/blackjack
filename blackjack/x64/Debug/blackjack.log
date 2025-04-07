@@ -1,0 +1,18 @@
+﻿  Źródło.cpp
+C:\reposytoria\blackjack\Źródło.cpp(466,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\reposytoria\blackjack\Źródło.cpp(515,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\reposytoria\blackjack\Źródło.cpp(539,14): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+C:\reposytoria\blackjack\Źródło.cpp(539,14): warning C4244:         with
+C:\reposytoria\blackjack\Źródło.cpp(539,14): warning C4244:         [
+C:\reposytoria\blackjack\Źródło.cpp(539,14): warning C4244:             T=int
+C:\reposytoria\blackjack\Źródło.cpp(539,14): warning C4244:         ]
+C:\reposytoria\blackjack\Źródło.cpp(540,14): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+C:\reposytoria\blackjack\Źródło.cpp(540,14): warning C4244:         with
+C:\reposytoria\blackjack\Źródło.cpp(540,14): warning C4244:         [
+C:\reposytoria\blackjack\Źródło.cpp(540,14): warning C4244:             T=int
+C:\reposytoria\blackjack\Źródło.cpp(540,14): warning C4244:         ]
+C:\reposytoria\blackjack\Źródło.cpp(707,48): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\reposytoria\blackjack\Źródło.cpp(714,32): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\reposytoria\blackjack\Źródło.cpp(719,50): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\reposytoria\blackjack\Źródło.cpp(727,45): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  blackjack.vcxproj -> C:\reposytoria\blackjack\x64\Debug\blackjack.exe
